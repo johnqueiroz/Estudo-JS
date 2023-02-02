@@ -7,3 +7,12 @@ body{
 h1{
     color: rgb(233, 233, 98);
 }
+/*id = # | class = .*/
+#msg{
+    background-color: rgb(114, 196, 114);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
